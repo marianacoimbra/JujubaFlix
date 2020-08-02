@@ -9,7 +9,7 @@ const Menu = () => {
         <img className="Logo" src={jujubaFlixLogo} alt="jujubaFlix Logo" />
       </a>
       <Button as="a" className="ButtonLink" href="/">
-        Novo conteudo
+        Novo conteúdo
       </Button>
     </nav>
   );

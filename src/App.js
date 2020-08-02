@@ -20,6 +20,7 @@ function App() {
         <Carousel category={dados_iniciais.categorias[0]} />
         <Carousel category={dados_iniciais.categorias[1]} />
         <Carousel category={dados_iniciais.categorias[2]} />
+        <Carousel category={dados_iniciais.categorias[3]} />
         <Footer />
       </header>
     </div>

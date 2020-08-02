@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Videos",
+      "titulo": "Vídeos",
       "link": "https://www.youtube.com/watch?v=78WkQObqp3U&list=PLPz6TqSYQzDaGNhwuK2JFVJ1bNeHe1dw5",
       "cor": "#6BD1FF",
       "link_extra": {
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "titulo": "Music",
+      "titulo": "Música",
       "cor": "#aea3a6",
       "link_extra": {
         "text": "Billie Eilish - my future",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "titulo": "Science",
+      "titulo": "Ciência",
       "cor": "#9cd33b",
       "link_extra": {
         "text": "O que é o Coronavírus? | Nerdologia",
@@ -100,24 +100,24 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Séries",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=rrwycJ08PSA"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Brooklyn Nine-Nine",
+          "url": "https://www.youtube.com/watch?v=OoqqqljwX_g"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Good Girls",
+          "url": "https://www.youtube.com/watch?v=kbjIaPzODs0"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=HhesaQXLuRY"
         }
       ]
     },
