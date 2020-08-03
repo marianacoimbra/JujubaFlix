@@ -5,16 +5,16 @@
       "link": "https://www.youtube.com/watch?v=78WkQObqp3U&list=PLPz6TqSYQzDaGNhwuK2JFVJ1bNeHe1dw5",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Energia!",
+        "text": "Aleatoriedades",
         "url": "https://www.youtube.com/watch?v=3VLPyOLC1nc&list=PLPz6TqSYQzDaGNhwuK2JFVJ1bNeHe1dw5&index=4"
       },
       "videos": [
         {
-          "titulo": "My Future- Billie Eilish",
+          "titulo": "As melhores musiquinhas",
           "url": "https://www.youtube.com/watch?v=Dm9Zf1WYQ_A"
         },
         {
-          "titulo": "O Paradoxo de Bootstrap Explicado",
+          "titulo": "E vamos de ciencia",
           "url": "https://www.youtube.com/watch?v=4s28mk9qZXs"
         },
         {
@@ -47,7 +47,7 @@
       "titulo": "Música",
       "cor": "#aea3a6",
       "link_extra": {
-        "text": "Billie Eilish - my future",
+        "text": "As melhores musiquinhas",
         "url": "https://www.youtube.com/watch?v=Dm9Zf1WYQ_A"
       },
       "videos": [
@@ -77,7 +77,7 @@
       "titulo": "Ciência",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "O que é o Coronavírus? | Nerdologia",
+        "text": "",
         "url": "https://www.youtube.com/watch?v=e-JaQOeFxtI"
       },
       "videos": [

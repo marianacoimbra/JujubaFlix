@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
 
 function Home() {
   return (
-    <div className="App">
+    <div className="App" style={{ background: "black" }}>
       <header className="App-header">
         <Menu />
         <BannerMain
