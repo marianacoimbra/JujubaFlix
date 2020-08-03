@@ -4,7 +4,6 @@ import BannerMain from "../../components/BannerMain";
 import Carousel from "../../components/Carousel";
 import Footer from "../../components/Footer";
 import dados_iniciais from "../../data/dados_iniciais.json";
-import { Link } from "react-router-dom";
 
 function Home() {
   return (
