@@ -2,13 +2,15 @@ import React from "react";
 import jujubaFlixLogo from "../../assets/jujubaFlixLogo.png";
 import "./style.css";
 import Button from "../Button/index";
+import { Link } from "react-router-dom";
+
 const Menu = () => {
   return (
     <nav className="Menu">
-      <a href="/">
+      <Link to="/">
         <img className="Logo" src={jujubaFlixLogo} alt="jujubaFlix Logo" />
-      </a>
-      <Button as="a" className="ButtonLink" href="/">
+      </Link>
+      <Button as={Link} className="ButtonLink" to="/cadastro/video">
         Novo conteúdo
       </Button>
     </nav>

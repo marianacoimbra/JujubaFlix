@@ -1,11 +1,12 @@
 import React from "react";
-import Menu from "./components/Menu";
-import BannerMain from "./components/BannerMain";
-import Carousel from "./components/Carousel";
-import Footer from "./components/Footer";
-import dados_iniciais from "./data/dados_iniciais.json";
+import Menu from "../../components/Menu";
+import BannerMain from "../../components/BannerMain";
+import Carousel from "../../components/Carousel";
+import Footer from "../../components/Footer";
+import dados_iniciais from "../../data/dados_iniciais.json";
+import { Link } from "react-router-dom";
 
-function App() {
+function Home() {
   return (
     <div className="App">
       <header className="App-header">
@@ -27,4 +28,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
