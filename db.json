@@ -1,0 +1,16 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "category": "Series",
+      "description": "Uma categoria que eu amo",
+      "color": "#cdb1ff"
+    },
+    {
+      "id": 2,
+      "category": "Filmes",
+      "description": "Uma categoria que eu amo",
+      "color": "#aab1ff"
+    }
+  ]
+}
